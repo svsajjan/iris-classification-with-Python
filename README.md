@@ -18,4 +18,3 @@ This project demonstrates:
 - Scikit-learn
 - Jupyter Notebook
 
-## 📂 Project Structure
